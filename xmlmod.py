@@ -34,5 +34,18 @@ parser.EndElementHandler = handler.end_element
 parser.CharacterDataHandler = handler.char_data
 parser.Parse(xml)
 
+	k8sdev.api.tianbaows.com
+	k8sdev.backend.tianbaows.com   1
+	k8sdev.blackscreen.tianbaows.com  0
+	k8sdev.ctriporder.tianbaows.com 
+	k8sdev.farerule-service.tianbaows.com
+	k8sdev.frontend.tianbaows.com  0
+	k8sdev.metrics.tianbaows.com
+	k8sdev.monitor-service.tianbaows.com
+	k8sdev.orders.tianbaows.com  
+	k8sdev.payment.tianbaows.com 
+    k8sdev.s2b.tianbaows.com  0
+
+
 	
 
